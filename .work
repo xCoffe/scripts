@@ -1,0 +1,11 @@
+Comando de trabalhar:
+
+$nomention
+$setUserVar[money;$sum[$getUserVar[money];$random[100;500]]]
+$title[trabalho]
+$description[
+Você trabalhou e ganhou `$random[100;500]`💰 R$
+]
+$color[#ff0004]
+$footer[use `.bal` para ver seu dinheiro!]
+$cooldown[5m;Espere 5 minutos para trabalhar novamente!]
